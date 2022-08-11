@@ -11,7 +11,7 @@ One analysis in observing the difference of total daily volume between 2017 and 
 
 |       2017         |       2018         |     
 |:---: |:---: |
-|![This is an image]https://github.com/mrjaytv/stock-analysis/blob/5d00896dfb60c9fbb00ff8c73251d4637ee854a2/Resources/2017_dataresults.png |![This is an image]https://github.com/mrjaytv/stock-analysis/blob/5d00896dfb60c9fbb00ff8c73251d4637ee854a2/Resources/2018_dataresults.png |
+|![This is an image](https://github.com/mrjaytv/stock-analysis/blob/5d00896dfb60c9fbb00ff8c73251d4637ee854a2/Resources/2017_dataresults.png)|![This is an image](https://github.com/mrjaytv/stock-analysis/blob/5d00896dfb60c9fbb00ff8c73251d4637ee854a2/Resources/2018_dataresults.png)|
 
 
 ## Results from the Refactoring the Code
@@ -23,13 +23,13 @@ Refactoring the initial code helped the data anaylsis run faster. In the long ru
 
 |       2017         |       2018         |     
 |:---: |:---: |
-|![This is an image]https://github.com/mrjaytv/stock-analysis/blob/5d00896dfb60c9fbb00ff8c73251d4637ee854a2/Resources/2017_msgbx.png |![This is an image]https://github.com/mrjaytv/stock-analysis/blob/5d00896dfb60c9fbb00ff8c73251d4637ee854a2/Resources/2018_msgbx.png |
+|![This is an image](https://github.com/mrjaytv/stock-analysis/blob/5d00896dfb60c9fbb00ff8c73251d4637ee854a2/Resources/2017_msgbx.png) |![This is an image](https://github.com/mrjaytv/stock-analysis/blob/5d00896dfb60c9fbb00ff8c73251d4637ee854a2/Resources/2018_msgbx.png) |
 
 ### Model 2: Run times for the refactored code took around .07 seconds, 
 
 |       2017         |       2018         |     
 |:---: |:---: |
-|![This is an image]https://github.com/mrjaytv/stock-analysis/blob/5d00896dfb60c9fbb00ff8c73251d4637ee854a2/Resources/2017_msgbx_refactor.png |![This is an image]https://github.com/mrjaytv/stock-analysis/blob/5d00896dfb60c9fbb00ff8c73251d4637ee854a2/Resources/2018_msgbx_refactor.png |
+|![This is an image](https://github.com/mrjaytv/stock-analysis/blob/5d00896dfb60c9fbb00ff8c73251d4637ee854a2/Resources/2017_msgbx_refactor.png) |![This is an image](https://github.com/mrjaytv/stock-analysis/blob/5d00896dfb60c9fbb00ff8c73251d4637ee854a2/Resources/2018_msgbx_refactor.png)|
 
 
 
